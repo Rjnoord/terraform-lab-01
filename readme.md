@@ -88,7 +88,10 @@ terraform destroy
 - Managed infrastructure through a repeatable and scalable IaC workflow
 
 ## Screenshots
-
+![Terraform Plan]()
+![Terraform Plan]()
+![Terraform Plan]()
+![Terraform Plan]()
 
 
 ## Author
