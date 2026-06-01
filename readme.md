@@ -88,7 +88,7 @@ terraform destroy
 - Managed infrastructure through a repeatable and scalable IaC workflow
 
 ## Screenshots
-![Terraform Plan]()
+![Terraform Plan](https://github.com/Rjnoord/terraform-lab-01/blob/main/terraform-aws-networking.png)
 ![Terraform Plan]()
 ![Terraform Plan]()
 ![Terraform Plan]()
