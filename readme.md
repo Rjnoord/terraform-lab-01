@@ -25,7 +25,7 @@ RJ Noord
 
 ![terraform screenshot](https://github.com/Rjnoord/terraform-lab-01/blob/main/Screenshot%202026-06-01%20at%204.23.31%E2%80%AFPM.png)
 
-![terraform screenshot]()
+![terraform screenshot](https://github.com/Rjnoord/terraform-lab-01/blob/main/Screenshot%202026-06-01%20at%204.30.19%E2%80%AFPM.png)
 
 ![terraform screenshot]()
 
