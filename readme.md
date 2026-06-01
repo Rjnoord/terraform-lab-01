@@ -90,7 +90,7 @@ terraform destroy
 ## Screenshots
 ![Terraform Plan](https://github.com/Rjnoord/terraform-lab-01/blob/main/terraform-aws-networking.png)
 ![Terraform Plan](https://github.com/Rjnoord/terraform-lab-01/blob/main/terraform-iampolicies.png)
-![Terraform Plan]()
+![Terraform Plan](https://github.com/Rjnoord/terraform-lab-01/blob/main/terraform-plan-success.png)
 ![Terraform Plan]()
 
 
